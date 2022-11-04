@@ -2,6 +2,12 @@ body {
     background: rgb(160, 234, 240);
     text-align: center;
 }
+
+#img_inicio {
+    width: 100%;
+    height: 150px;
+}
+
 .contatos {
     text-align: right;
 }
