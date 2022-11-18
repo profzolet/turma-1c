@@ -2,10 +2,17 @@ body {
     background: rgb(224, 160, 240);
     text-align:center;
 }
-
+h1 {
+    font-size: 35px;
+}
 #img_inicio {
     width: 50%;
     height: 150px;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
 }
 
 .contatos {
