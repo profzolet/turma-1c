@@ -19,6 +19,11 @@ p {
     display:inline-block;
     background: white;
 }
+
+#titulo_contatos {
+    text-align: center;
+    font-size: 18px;
+}
 ul {
     margin-left: 60%;
     text-align: left;
